@@ -1,0 +1,15 @@
+BDM Name
+Customer Name
+New / Existing
+PL
+SPECS
+OEM
+Qty
+Price(Without GST)
+Estimated Order Value (INR Lacs)
+Expected Closure Week
+Month
+Remarks
+100
+50
+F
